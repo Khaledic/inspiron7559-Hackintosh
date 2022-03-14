@@ -1,7 +1,7 @@
 # inspiron7559-Hackintosh
 
 # Kext
-## Every Zip File contain instruction on how to install.
+## Every Zip File contains instruction on how to install.
 Wifi fix
 
 Audio fix
