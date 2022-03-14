@@ -1,7 +1,7 @@
 # inspiron7559-Hackintosh
 
 # Kext
-
+## Every Zip File contain instruction on how to install.
 Wifi fix
 
 Audio fix
@@ -20,4 +20,4 @@ Headset jack fix
 #.  Add to Ignore List.
 
 
-## Every Zip File contain instruction on how to install.
+
