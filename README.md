@@ -7,6 +7,7 @@ Wifi fix
 Audio fix
 
 keyboard and touchpad fix
+
 ---------------------------
 Headset jack fix
 
