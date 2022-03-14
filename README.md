@@ -11,9 +11,9 @@ keyboard and touchpad fix
 ---------------------------
 Headset jack fix
 
-#.  /usr/local/sbin/(ComboJack - hda-verb) terminal files, don't delete.
+#.  /usr/local/sbin/(ComboJack - hda-verb) terminal files.
 
-#. /Library/LaunchDaemons/com.XPS.ComboJack.plist
+#. /Library/LaunchDaemons/com.XPS.ComboJack.plist.
 
 #.  Clean MyMac X will detect them as mining threat.
 
