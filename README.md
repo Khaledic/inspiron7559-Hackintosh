@@ -7,7 +7,7 @@ Wifi fix
 Audio fix
 
 keyboard and touchpad fix
-
+---------------------------
 Headset jack fix
 
 #.  /usr/local/sbin/(ComboJack - hda-verb) terminal files, don't delete.
