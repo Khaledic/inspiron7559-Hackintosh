@@ -17,7 +17,7 @@ Headset jack fix
 
 #.  Clean MyMac X will detect them as mining threat.
 
-#.  Add to Ignore List.
+#.  Performe Maleware Removal scan then from scan results add these files to "Ignore List" by right click.
 
 
 
