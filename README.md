@@ -11,7 +11,7 @@ AirportItlwm.kext --wifi fix.zip
 # Audio fix
 AppleALC.kext.zip
 
-AppleALC/LC256/layout14
+AppleALC/LC256/layout56
 
 ---------------------------
 # keyboard and touchpad fix
