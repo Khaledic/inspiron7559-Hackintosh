@@ -2,18 +2,20 @@
 
 # Kext
 ## Every Zip File contains instruction on how to install.
-Wifi fix
 
 ---------------------------
-Audio fix
+# Wifi fix
+
+---------------------------
+# Audio fix
 
 AppleALC/LC256/layout14
 
 ---------------------------
-keyboard and touchpad fix
+# keyboard and touchpad fix
 
 ---------------------------
-Headset jack fix
+# Headset jack fix
 
 #.  /usr/local/sbin/(ComboJack - hda-verb) terminal files.
 
