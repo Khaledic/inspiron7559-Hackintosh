@@ -6,6 +6,7 @@
 ---------------------------
 # Wifi fix
 AirportItlwm.kext --wifi fix.zip
+
 ---------------------------
 # Audio fix
 AppleALC.kext.zip
