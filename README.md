@@ -8,6 +8,7 @@
 AirportItlwm.kext --wifi fix.zip
 ---------------------------
 # Audio fix
+AppleALC.kext.zip
 
 AppleALC/LC256/layout14
 
