@@ -3,10 +3,12 @@
 # Kext
 ## Every Zip File contains instruction on how to install.
 Wifi fix
-
+---------------------------
 Audio fix
+
 AppleALC/LC256/layout14
 
+---------------------------
 keyboard and touchpad fix
 
 ---------------------------
