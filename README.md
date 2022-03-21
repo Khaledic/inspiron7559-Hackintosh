@@ -5,6 +5,7 @@
 Wifi fix
 
 Audio fix
+AppleALC/LC256/layout14
 
 keyboard and touchpad fix
 
