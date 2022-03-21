@@ -5,7 +5,7 @@
 
 ---------------------------
 # Wifi fix
-
+AirportItlwm.kext --wifi fix.zip
 ---------------------------
 # Audio fix
 
@@ -13,9 +13,11 @@ AppleALC/LC256/layout14
 
 ---------------------------
 # keyboard and touchpad fix
+VoodooPS2Controller-2.2.7-RELEASE.zip
 
 ---------------------------
 # Headset jack fix
+ComboJack-master.zip
 
 #.  /usr/local/sbin/(ComboJack - hda-verb) terminal files.
 
